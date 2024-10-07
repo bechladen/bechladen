@@ -1,6 +1,6 @@
 ## 👨‍💻 ** Junior Full-Stack Developer**
 
-🔧 **Main skills**:
+🔧 **Main Skills**:
 - Languages: HTML/CSS, JavaScript, TypeScript, Python, SQL
 - Frameworks: React, React Native, Node.js
 - Methodologies: Agile, DevOps (CI/CD)
@@ -8,11 +8,10 @@
 - Software Development: Algorithms, data structures, software design, testing, and quality control
 - Cloud Computing: Basics of cloud principles
 
-📚 **More facts**
-- I’m currently studying at the Woolf University 🎓
-- You can reach me at: +1(709)697-1921 📞
+📚 **What I'm Currently Working On**
+- I’m immersed in my studies at Woolf University
 
-✨ **Let's Connect**
+🔗 **Let's Connect**
 - Phone: +1(709)697-1921
 - Email: bechladen@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bechladen/
