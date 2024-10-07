@@ -12,7 +12,7 @@
 - I’m currently studying at the Woolf University 🎓
 - You can reach me at: +1(709)697-1921 📞
 
-✨ Let's Connect:
+✨ **Let's Connect**
 - Phone: +1(709)697-1921
 - Email: bechladen@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bechladen/
